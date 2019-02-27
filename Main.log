@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6880 64-bit) (preloaded format=xelatex 2018.12.16)  26 FEB 2019 17:12
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6880 64-bit) (preloaded format=xelatex 2018.12.16)  27 FEB 2019 15:31
 entering extended mode
 **./Main.tex
 (Main.tex
@@ -758,23 +758,23 @@ File: lovelive.jpg Graphic file (type bmp)
 LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10.53937> not avail
 able
 (Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 
-36.
+32.
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 42.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 45.
  [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 42.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 45.
  (Main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 42.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 42.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 45.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 45.
 Package rerunfilecheck Info: File `Main.out' has not changed.
 (rerunfilecheck)             Checksum: 574046DF22D61D8764C709E86ED404C9.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 45.
  ) 
 Here is how much of TeX's memory you used:
- 24228 strings out of 427771
- 488786 string characters out of 3151337
+ 24261 strings out of 427771
+ 491017 string characters out of 3151337
  553768 words of memory out of 3000000
- 28074 multiletter control sequences out of 15000+200000
+ 28107 multiletter control sequences out of 15000+200000
  536656 words of font info for 63 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  52i,6n,68p,596b,443s stack positions out of 5000i,500n,10000p,200000b,50000s
