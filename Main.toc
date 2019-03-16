@@ -4,3 +4,5 @@
 \contentsline {subsection}{\numberline {2.2}偶像大师 百万现场}{3}{subsection.2.2}
 \contentsline {section}{\numberline {3}专职歌手}{3}{section.3}
 \contentsline {subsection}{\numberline {3.1}Aimer}{3}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}山崎葵}{5}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}鬼束千寻}{6}{subsection.3.3}
