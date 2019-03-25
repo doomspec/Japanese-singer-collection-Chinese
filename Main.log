@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6880 64-bit) (preloaded format=xelatex 2018.12.16)  16 MAR 2019 15:27
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6880 64-bit) (preloaded format=xelatex 2018.12.16)  26 MAR 2019 00:04
 entering extended mode
 **./Main.tex
 (Main.tex
@@ -759,11 +759,24 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 File: lovelive.jpg Graphic file (type bmp)
 <lovelive.jpg>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10.53937> not avail
 able
 (Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 
 36.
-[2]
+[2] [3]
+File: im@s.jpg Graphic file (type bmp)
+<im@s.jpg>
+ [4]
+File: xx_me.jpg Graphic file (type bmp)
+<xx_me.jpg>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5]
 File: Aimer.jpg Graphic file (type bmp)
 <Aimer.jpg>
 
@@ -771,45 +784,64 @@ File: Aimer.jpg Graphic file (type bmp)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--63
+Underfull \hbox (badness 10000) in paragraph at lines 118--123
 
  []
 
-[3]
+[6] [7]
 File: yamasaki_aoi.jpg Graphic file (type bmp)
 <yamasaki_aoi.jpg>
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[4] [5]
+ [8]
 File: onitsuka_chihiro.jpg Graphic file (type bmp)
 <onitsuka_chihiro.jpg>
 File: onitsuka_chihiro_2.jpg Graphic file (type bmp)
 <onitsuka_chihiro_2.jpg>
 
-Overfull \hbox (16.3782pt too wide) in paragraph at lines 104--112
+Overfull \hbox (16.3782pt too wide) in paragraph at lines 162--170
 [][] [][]
  []
 
-[6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 125.
- [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 125.
+[9]
+File: ringo.jpg Graphic file (type bmp)
+<ringo.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--194
+
+ []
+
+[10]
+File: kokia.jpg Graphic file (type bmp)
+<kokia.jpg>
+File: kokia_2.jpg Graphic file (type bmp)
+<kokia_2.jpg>
+
+Overfull \hbox (16.3782pt too wide) in paragraph at lines 211--219
+[][] [][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--225
+
+ []
+
+[11]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 252.
+ [12]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 252.
  (Main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 125.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 125.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 252.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 252.
 Package rerunfilecheck Info: File `Main.out' has not changed.
-(rerunfilecheck)             Checksum: 85DE87081F83B0CDB087F6029BB5C0F0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 125.
+(rerunfilecheck)             Checksum: FE05102AAEF51D63F4EC5AB8CDDA834B.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 252.
  ) 
 Here is how much of TeX's memory you used:
- 24378 strings out of 427771
- 497637 string characters out of 3151337
- 554559 words of memory out of 3000000
- 28216 multiletter control sequences out of 15000+200000
+ 24552 strings out of 427771
+ 507905 string characters out of 3151337
+ 556938 words of memory out of 3000000
+ 28380 multiletter control sequences out of 15000+200000
  536672 words of font info for 65 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  52i,6n,68p,596b,443s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Main.pdf (7 pages).
+Output written on Main.pdf (12 pages).

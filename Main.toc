@@ -1,8 +1,20 @@
-\contentsline {section}{\numberline {1}前言}{1}{section.1}
+\contentsline {section}{\numberline {1}前言}{2}{section.1}
 \contentsline {section}{\numberline {2}虚拟偶像}{2}{section.2}
 \contentsline {subsection}{\numberline {2.1}$\mu $'s}{2}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}偶像大师 百万现场}{3}{subsection.2.2}
-\contentsline {section}{\numberline {3}专职歌手}{3}{section.3}
-\contentsline {subsection}{\numberline {3.1}Aimer}{3}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}山崎葵}{5}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}鬼束千寻}{6}{subsection.3.3}
+\contentsline {subsection}{\numberline {2.2}Aqours}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}偶像大师 本家}{4}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}偶像大师 百万现场}{5}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}偶像大师 灰姑娘}{5}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Poppin'Party}{5}{subsection.2.6}
+\contentsline {subsection}{\numberline {2.7}XX:me（キス·ミー）}{5}{subsection.2.7}
+\contentsline {section}{\numberline {3}专职歌手}{6}{section.3}
+\contentsline {subsection}{\numberline {3.1}Aimer}{6}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}山崎葵}{8}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}鬼束千寻}{9}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}椎名林檎}{10}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}KOKIA（吉田亚纪子）}{11}{subsection.3.5}
+\contentsline {section}{\numberline {4}偏ACG歌手、唱见}{12}{section.4}
+\contentsline {subsection}{\numberline {4.1}水濑祈}{12}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}鹿乃}{12}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}小缘}{12}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}majico}{12}{subsection.4.4}
